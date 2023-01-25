@@ -110,6 +110,7 @@ else:
 ## Sample Input and Output
 
 linear search method to match the item in a list
+
 ![OUTPUT](q1.png)
 ![OUTPUT](a1.png)
 
