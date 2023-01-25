@@ -108,12 +108,15 @@ else:
 
 ```
 ## Sample Input and Output
+
 linear search method to match the item in a list
 ![OUTPUT](q1.png)
 ![OUTPUT](a1.png)
+
 find the element in a list using Binary Search(Iterative Method)
 ![OUTPUT](q2.png)
 ![OUTPUT](a2.png)
+
 find the element in a list using Binary Search (recursive Method)
 ![OUTPUT](q3.png)
 ![OUTPUT](a3.png)
